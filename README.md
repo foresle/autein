@@ -23,7 +23,7 @@ If you've ever used a program like MInstAll, you'll understand. You may be famil
     name: "neofetch"
     description: "Install neofetch"
     commands: "sudo pacman -Sy neofetch;a echo neofetch >> ~/.zshrc; echo neofetch >> ~/.bashrc;"
-    author: "logic-debugger"
+    author: "foresle"
     create_datetime: "2021-05-10 06:39"
     ```
     Congratulations on the first added program!!! 
