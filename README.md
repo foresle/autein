@@ -22,7 +22,7 @@ If you've ever used a program like MInstAll, you'll understand. You may be famil
     ```
     name: "neofetch"
     description: "Install neofetch"
-    commands: "sudo pacman -Sy neofetch;a echo neofetch >> ~/.zshrc; echo neofetch >> ~/.bashrc;"
+    commands: "sudo pacman -Sy neofetch; echo neofetch >> ~/.zshrc; echo neofetch >> ~/.bashrc;"
     author: "foresle"
     create_datetime: "2021-05-10 06:39"
     ```
